@@ -1,6 +1,6 @@
 # FaceX
 
-![Teaser](./docs/Teaser.png)
+![Teaser](./Teaser.png)
 
 This repo is the official implementation of "A Generalist FaceX via Learning Unified Facial Representation".
 
