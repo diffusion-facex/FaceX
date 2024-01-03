@@ -6,7 +6,7 @@ This repo is the official implementation of "A Generalist FaceX via Learning Uni
 
 <!-- By [Bowen Zhang](http://home.ustc.edu.cn/~zhangbowen)\*, [Chenyang Qi](https://chenyangqiqi.github.io)\*, [Pan Zhang](https://panzhang0212.github.io), [Bo Zhang](https://bo-zhang.me/), [HsiangTao Wu](https://dl.acm.org/profile/81487650131), [Dong Chen](http://www.dongchen.pro/), [Qifeng Chen](https://cqf.io), [Yong Wang](http://en.auto.ustc.edu.cn/2021/0616/c26828a513186/page.htm) and [Fang Wen](https://www.microsoft.com/en-us/research/people/fangwen/). -->
 
-[Paper]() | [Project Page](https://diffusion-facex.github.io/) | [Code](https://github.com/diffusion-facex/FaceX)
+[Paper](https://arxiv.org/abs/2401.00551) | [Project Page](https://diffusion-facex.github.io/) | [Code](https://github.com/diffusion-facex/FaceX)
 
 ## Abstract
 
